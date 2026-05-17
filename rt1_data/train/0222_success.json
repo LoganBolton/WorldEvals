@@ -1,0 +1,7 @@
+{
+  "video": "0222_success.mp4",
+  "instruction": "place water bottle into middle drawer",
+  "success": true,
+  "num_frames": 63,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "0074_fail.mp4",
+  "instruction": "move 7up can near green jalapeno chip bag",
+  "success": false,
+  "num_frames": 25,
+  "fps": 10
+}

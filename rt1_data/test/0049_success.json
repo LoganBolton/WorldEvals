@@ -1,0 +1,7 @@
+{
+  "video": "0049_success.mp4",
+  "instruction": "move rxbar blueberry near blue plastic bottle",
+  "success": true,
+  "num_frames": 31,
+  "fps": 10
+}

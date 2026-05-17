@@ -1,0 +1,7 @@
+{
+  "video": "0782_success.mp4",
+  "instruction": "move sponge near redbull can",
+  "success": true,
+  "num_frames": 28,
+  "fps": 10
+}

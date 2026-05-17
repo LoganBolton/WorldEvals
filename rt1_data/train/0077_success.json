@@ -1,0 +1,7 @@
+{
+  "video": "0077_success.mp4",
+  "instruction": "place pepsi can upright",
+  "success": true,
+  "num_frames": 33,
+  "fps": 10
+}

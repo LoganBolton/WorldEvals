@@ -1,0 +1,7 @@
+{
+  "video": "0332_fail.mp4",
+  "instruction": "move coke can near water bottle",
+  "success": false,
+  "num_frames": 46,
+  "fps": 10
+}

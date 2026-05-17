@@ -1,0 +1,7 @@
+{
+  "video": "0259_fail.mp4",
+  "instruction": "move rxbar chocolate near redbull can",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

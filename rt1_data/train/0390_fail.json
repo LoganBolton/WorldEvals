@@ -1,0 +1,7 @@
+{
+  "video": "0390_fail.mp4",
+  "instruction": "move green jalapeno chip bag near orange can",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

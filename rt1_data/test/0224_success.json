@@ -1,0 +1,7 @@
+{
+  "video": "0224_success.mp4",
+  "instruction": "pick blue plastic bottle",
+  "success": true,
+  "num_frames": 20,
+  "fps": 10
+}

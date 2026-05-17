@@ -1,0 +1,7 @@
+{
+  "video": "0866_success.mp4",
+  "instruction": "place green jalapeno chip bag into top drawer",
+  "success": true,
+  "num_frames": 35,
+  "fps": 10
+}

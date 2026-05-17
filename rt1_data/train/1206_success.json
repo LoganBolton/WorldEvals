@@ -1,0 +1,7 @@
+{
+  "video": "1206_success.mp4",
+  "instruction": "move orange near green jalapeno chip bag",
+  "success": true,
+  "num_frames": 40,
+  "fps": 10
+}

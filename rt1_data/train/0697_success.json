@@ -1,0 +1,7 @@
+{
+  "video": "0697_success.mp4",
+  "instruction": "move blue plastic bottle near sponge",
+  "success": true,
+  "num_frames": 32,
+  "fps": 10
+}

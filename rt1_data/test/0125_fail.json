@@ -1,0 +1,7 @@
+{
+  "video": "0125_fail.mp4",
+  "instruction": "move green rice chip bag near green can",
+  "success": false,
+  "num_frames": 25,
+  "fps": 10
+}

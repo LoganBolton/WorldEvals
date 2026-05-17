@@ -1,0 +1,7 @@
+{
+  "video": "0394_fail.mp4",
+  "instruction": "place coke can upright",
+  "success": false,
+  "num_frames": 64,
+  "fps": 10
+}

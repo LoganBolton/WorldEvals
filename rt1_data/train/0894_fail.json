@@ -1,0 +1,7 @@
+{
+  "video": "0894_fail.mp4",
+  "instruction": "move brown chip bag near green can",
+  "success": false,
+  "num_frames": 33,
+  "fps": 10
+}

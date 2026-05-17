@@ -1,0 +1,7 @@
+{
+  "video": "0579_fail.mp4",
+  "instruction": "pick redbull can",
+  "success": false,
+  "num_frames": 21,
+  "fps": 10
+}

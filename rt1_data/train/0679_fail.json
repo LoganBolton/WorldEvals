@@ -1,0 +1,7 @@
+{
+  "video": "0679_fail.mp4",
+  "instruction": "move pepsi can near green rice chip bag",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

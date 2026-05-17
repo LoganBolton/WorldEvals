@@ -1,0 +1,7 @@
+{
+  "video": "0429_fail.mp4",
+  "instruction": "place green jalapeno chip bag into middle drawer",
+  "success": false,
+  "num_frames": 12,
+  "fps": 10
+}

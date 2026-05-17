@@ -1,0 +1,7 @@
+{
+  "video": "0208_fail.mp4",
+  "instruction": "move brown chip bag near blue plastic bottle",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

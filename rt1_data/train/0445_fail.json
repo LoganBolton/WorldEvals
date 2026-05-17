@@ -1,0 +1,7 @@
+{
+  "video": "0445_fail.mp4",
+  "instruction": "move orange can near orange",
+  "success": false,
+  "num_frames": 34,
+  "fps": 10
+}

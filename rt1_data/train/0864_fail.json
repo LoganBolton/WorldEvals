@@ -1,0 +1,7 @@
+{
+  "video": "0864_fail.mp4",
+  "instruction": "pick green can",
+  "success": false,
+  "num_frames": 30,
+  "fps": 10
+}

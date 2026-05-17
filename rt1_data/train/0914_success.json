@@ -1,0 +1,7 @@
+{
+  "video": "0914_success.mp4",
+  "instruction": "move white bowl near water bottle",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

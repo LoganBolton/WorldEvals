@@ -1,0 +1,7 @@
+{
+  "video": "1177_fail.mp4",
+  "instruction": "move water bottle near 7up can",
+  "success": false,
+  "num_frames": 25,
+  "fps": 10
+}

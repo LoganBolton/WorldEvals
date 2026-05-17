@@ -1,0 +1,7 @@
+{
+  "video": "1066_fail.mp4",
+  "instruction": "place rxbar chocolate into top drawer",
+  "success": false,
+  "num_frames": 104,
+  "fps": 10
+}

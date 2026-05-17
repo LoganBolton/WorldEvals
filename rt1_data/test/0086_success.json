@@ -1,0 +1,7 @@
+{
+  "video": "0086_success.mp4",
+  "instruction": "pick 7up can from top drawer and place on counter",
+  "success": true,
+  "num_frames": 36,
+  "fps": 10
+}

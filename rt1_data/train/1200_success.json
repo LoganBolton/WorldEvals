@@ -1,0 +1,7 @@
+{
+  "video": "1200_success.mp4",
+  "instruction": "move blue chip bag near pepsi can",
+  "success": true,
+  "num_frames": 33,
+  "fps": 10
+}

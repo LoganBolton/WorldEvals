@@ -1,0 +1,7 @@
+{
+  "video": "0887_success.mp4",
+  "instruction": "move rxbar chocolate near 7up can",
+  "success": true,
+  "num_frames": 29,
+  "fps": 10
+}

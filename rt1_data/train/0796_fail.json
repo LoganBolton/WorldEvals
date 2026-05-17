@@ -1,0 +1,7 @@
+{
+  "video": "0796_fail.mp4",
+  "instruction": "move orange can near rxbar chocolate",
+  "success": false,
+  "num_frames": 28,
+  "fps": 10
+}

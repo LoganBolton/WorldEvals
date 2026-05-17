@@ -1,0 +1,7 @@
+{
+  "video": "1191_fail.mp4",
+  "instruction": "move rxbar chocolate near apple",
+  "success": false,
+  "num_frames": 28,
+  "fps": 10
+}

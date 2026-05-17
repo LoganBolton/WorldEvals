@@ -1,0 +1,7 @@
+{
+  "video": "1115_success.mp4",
+  "instruction": "place 7up can upright",
+  "success": true,
+  "num_frames": 63,
+  "fps": 10
+}

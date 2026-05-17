@@ -1,0 +1,7 @@
+{
+  "video": "0510_fail.mp4",
+  "instruction": "place water bottle upright",
+  "success": false,
+  "num_frames": 10,
+  "fps": 10
+}

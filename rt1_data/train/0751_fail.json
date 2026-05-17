@@ -1,0 +1,7 @@
+{
+  "video": "0751_fail.mp4",
+  "instruction": "move blue plastic bottle near rxbar blueberry",
+  "success": false,
+  "num_frames": 85,
+  "fps": 10
+}

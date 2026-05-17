@@ -1,0 +1,7 @@
+{
+  "video": "0044_fail.mp4",
+  "instruction": "move paper bowl near apple",
+  "success": false,
+  "num_frames": 7,
+  "fps": 10
+}

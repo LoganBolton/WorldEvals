@@ -1,0 +1,7 @@
+{
+  "video": "0988_fail.mp4",
+  "instruction": "move coke can near blue chip bag",
+  "success": false,
+  "num_frames": 36,
+  "fps": 10
+}

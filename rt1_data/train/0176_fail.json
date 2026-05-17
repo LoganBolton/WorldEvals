@@ -1,0 +1,7 @@
+{
+  "video": "0176_fail.mp4",
+  "instruction": "pick coke can",
+  "success": false,
+  "num_frames": 18,
+  "fps": 10
+}

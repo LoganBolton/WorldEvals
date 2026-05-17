@@ -1,0 +1,7 @@
+{
+  "video": "0886_success.mp4",
+  "instruction": "place apple into middle drawer",
+  "success": true,
+  "num_frames": 48,
+  "fps": 10
+}

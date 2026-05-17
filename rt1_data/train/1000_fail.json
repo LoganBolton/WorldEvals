@@ -1,0 +1,7 @@
+{
+  "video": "1000_fail.mp4",
+  "instruction": "pick green can from middle drawer and place on counter",
+  "success": false,
+  "num_frames": 42,
+  "fps": 10
+}

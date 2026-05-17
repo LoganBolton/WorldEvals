@@ -1,0 +1,7 @@
+{
+  "video": "1107_success.mp4",
+  "instruction": "move green rice chip bag near coke can",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

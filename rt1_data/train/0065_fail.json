@@ -1,0 +1,7 @@
+{
+  "video": "0065_fail.mp4",
+  "instruction": "pick rxbar chocolate",
+  "success": false,
+  "num_frames": 50,
+  "fps": 10
+}

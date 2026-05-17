@@ -1,0 +1,7 @@
+{
+  "video": "0640_fail.mp4",
+  "instruction": "move blue plastic bottle near 7up can",
+  "success": false,
+  "num_frames": 51,
+  "fps": 10
+}

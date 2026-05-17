@@ -1,0 +1,7 @@
+{
+  "video": "0660_success.mp4",
+  "instruction": "place redbull can upright",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

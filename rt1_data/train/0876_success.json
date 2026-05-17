@@ -1,0 +1,7 @@
+{
+  "video": "0876_success.mp4",
+  "instruction": "move apple near sponge",
+  "success": true,
+  "num_frames": 21,
+  "fps": 10
+}

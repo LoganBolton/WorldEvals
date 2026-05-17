@@ -1,0 +1,7 @@
+{
+  "video": "0603_success.mp4",
+  "instruction": "place rxbar blueberry into middle drawer",
+  "success": true,
+  "num_frames": 33,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "0341_fail.mp4",
+  "instruction": "move brown chip bag near coke can",
+  "success": false,
+  "num_frames": 10,
+  "fps": 10
+}

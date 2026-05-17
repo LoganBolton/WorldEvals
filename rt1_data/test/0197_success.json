@@ -1,0 +1,7 @@
+{
+  "video": "0197_success.mp4",
+  "instruction": "pick green can",
+  "success": true,
+  "num_frames": 18,
+  "fps": 10
+}

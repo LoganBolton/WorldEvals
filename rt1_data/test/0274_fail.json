@@ -1,0 +1,7 @@
+{
+  "video": "0274_fail.mp4",
+  "instruction": "move sponge near orange can",
+  "success": false,
+  "num_frames": 68,
+  "fps": 10
+}

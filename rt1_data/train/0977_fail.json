@@ -1,0 +1,7 @@
+{
+  "video": "0977_fail.mp4",
+  "instruction": "knock 7up can over",
+  "success": false,
+  "num_frames": 33,
+  "fps": 10
+}

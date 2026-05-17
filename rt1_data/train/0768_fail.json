@@ -1,0 +1,7 @@
+{
+  "video": "0768_fail.mp4",
+  "instruction": "pick blue plastic bottle from middle drawer and place on counter",
+  "success": false,
+  "num_frames": 29,
+  "fps": 10
+}

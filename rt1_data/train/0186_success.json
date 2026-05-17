@@ -1,0 +1,7 @@
+{
+  "video": "0186_success.mp4",
+  "instruction": "move redbull can near pepsi can",
+  "success": true,
+  "num_frames": 36,
+  "fps": 10
+}

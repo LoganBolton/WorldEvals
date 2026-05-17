@@ -1,0 +1,7 @@
+{
+  "video": "1055_fail.mp4",
+  "instruction": "move blue chip bag near rxbar blueberry",
+  "success": false,
+  "num_frames": 2,
+  "fps": 10
+}

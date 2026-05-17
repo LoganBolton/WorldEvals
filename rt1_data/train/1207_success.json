@@ -1,0 +1,7 @@
+{
+  "video": "1207_success.mp4",
+  "instruction": "open bottom drawer",
+  "success": true,
+  "num_frames": 82,
+  "fps": 10
+}

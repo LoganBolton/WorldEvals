@@ -1,0 +1,7 @@
+{
+  "video": "0148_fail.mp4",
+  "instruction": "knock green can over",
+  "success": false,
+  "num_frames": 2,
+  "fps": 10
+}

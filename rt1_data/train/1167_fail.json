@@ -1,0 +1,7 @@
+{
+  "video": "1167_fail.mp4",
+  "instruction": "close bottom drawer",
+  "success": false,
+  "num_frames": 6,
+  "fps": 10
+}

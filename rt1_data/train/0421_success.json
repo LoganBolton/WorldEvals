@@ -1,0 +1,7 @@
+{
+  "video": "0421_success.mp4",
+  "instruction": "place green can upright",
+  "success": true,
+  "num_frames": 31,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "0248_success.mp4",
+  "instruction": "place 7up can into middle drawer",
+  "success": true,
+  "num_frames": 52,
+  "fps": 10
+}

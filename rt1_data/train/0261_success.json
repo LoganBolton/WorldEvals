@@ -1,0 +1,7 @@
+{
+  "video": "0261_success.mp4",
+  "instruction": "move apple near blue chip bag",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

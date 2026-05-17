@@ -1,0 +1,7 @@
+{
+  "video": "0363_fail.mp4",
+  "instruction": "knock pepsi can over",
+  "success": false,
+  "num_frames": 2,
+  "fps": 10
+}

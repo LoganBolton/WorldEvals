@@ -1,0 +1,7 @@
+{
+  "video": "1070_success.mp4",
+  "instruction": "move green can near white bowl",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

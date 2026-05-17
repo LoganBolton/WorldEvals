@@ -1,0 +1,7 @@
+{
+  "video": "0604_success.mp4",
+  "instruction": "move orange near rxbar chocolate",
+  "success": true,
+  "num_frames": 30,
+  "fps": 10
+}

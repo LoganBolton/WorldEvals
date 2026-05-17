@@ -1,0 +1,7 @@
+{
+  "video": "0826_fail.mp4",
+  "instruction": "move redbull can near green rice chip bag",
+  "success": false,
+  "num_frames": 24,
+  "fps": 10
+}

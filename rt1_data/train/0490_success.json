@@ -1,0 +1,7 @@
+{
+  "video": "0490_success.mp4",
+  "instruction": "move green can near orange can",
+  "success": true,
+  "num_frames": 44,
+  "fps": 10
+}

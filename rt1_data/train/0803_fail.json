@@ -1,0 +1,7 @@
+{
+  "video": "0803_fail.mp4",
+  "instruction": "knock water bottle over",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

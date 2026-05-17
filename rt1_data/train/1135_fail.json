@@ -1,0 +1,7 @@
+{
+  "video": "1135_fail.mp4",
+  "instruction": "pick pepsi can from top drawer and place on counter",
+  "success": false,
+  "num_frames": 11,
+  "fps": 10
+}

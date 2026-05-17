@@ -1,0 +1,7 @@
+{
+  "video": "1104_success.mp4",
+  "instruction": "move sponge near pepsi can",
+  "success": true,
+  "num_frames": 31,
+  "fps": 10
+}

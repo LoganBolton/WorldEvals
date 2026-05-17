@@ -1,0 +1,7 @@
+{
+  "video": "0488_fail.mp4",
+  "instruction": "move sponge near rxbar blueberry",
+  "success": false,
+  "num_frames": 32,
+  "fps": 10
+}

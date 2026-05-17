@@ -1,0 +1,7 @@
+{
+  "video": "0777_success.mp4",
+  "instruction": "move blue plastic bottle near green rice chip bag",
+  "success": true,
+  "num_frames": 34,
+  "fps": 10
+}

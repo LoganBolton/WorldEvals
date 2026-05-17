@@ -1,0 +1,7 @@
+{
+  "video": "0181_success.mp4",
+  "instruction": "move water bottle near 7up can",
+  "success": true,
+  "num_frames": 29,
+  "fps": 10
+}

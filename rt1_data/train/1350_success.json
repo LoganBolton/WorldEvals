@@ -1,0 +1,7 @@
+{
+  "video": "1350_success.mp4",
+  "instruction": "move blue chip bag near water bottle",
+  "success": true,
+  "num_frames": 20,
+  "fps": 10
+}

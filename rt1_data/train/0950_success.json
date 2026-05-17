@@ -1,0 +1,7 @@
+{
+  "video": "0950_success.mp4",
+  "instruction": "move water bottle near green jalapeno chip bag",
+  "success": true,
+  "num_frames": 38,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "0093_success.mp4",
+  "instruction": "place orange can into top drawer",
+  "success": true,
+  "num_frames": 37,
+  "fps": 10
+}

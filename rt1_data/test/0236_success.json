@@ -1,0 +1,7 @@
+{
+  "video": "0236_success.mp4",
+  "instruction": "pick pepsi can from middle drawer and place on counter",
+  "success": true,
+  "num_frames": 44,
+  "fps": 10
+}

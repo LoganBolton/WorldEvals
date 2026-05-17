@@ -1,0 +1,7 @@
+{
+  "video": "0792_fail.mp4",
+  "instruction": "pick brown chip bag",
+  "success": false,
+  "num_frames": 26,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "1322_fail.mp4",
+  "instruction": "move apple near blue chip bag",
+  "success": false,
+  "num_frames": 22,
+  "fps": 10
+}

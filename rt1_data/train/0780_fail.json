@@ -1,0 +1,7 @@
+{
+  "video": "0780_fail.mp4",
+  "instruction": "knock redbull can over",
+  "success": false,
+  "num_frames": 40,
+  "fps": 10
+}

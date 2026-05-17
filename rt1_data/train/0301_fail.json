@@ -1,0 +1,7 @@
+{
+  "video": "0301_fail.mp4",
+  "instruction": "place blue plastic bottle into bottom drawer",
+  "success": false,
+  "num_frames": 64,
+  "fps": 10
+}

@@ -1,0 +1,7 @@
+{
+  "video": "0741_success.mp4",
+  "instruction": "move paper bowl near coke can",
+  "success": true,
+  "num_frames": 57,
+  "fps": 10
+}

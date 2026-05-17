@@ -1,0 +1,7 @@
+{
+  "video": "1043_success.mp4",
+  "instruction": "place coke can into middle drawer",
+  "success": true,
+  "num_frames": 73,
+  "fps": 10
+}

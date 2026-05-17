@@ -1,0 +1,7 @@
+{
+  "video": "0168_fail.mp4",
+  "instruction": "move apple near blue plastic bottle",
+  "success": false,
+  "num_frames": 31,
+  "fps": 10
+}

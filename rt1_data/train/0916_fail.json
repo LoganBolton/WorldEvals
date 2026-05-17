@@ -1,0 +1,7 @@
+{
+  "video": "0916_fail.mp4",
+  "instruction": "place green rice chip bag into middle drawer",
+  "success": false,
+  "num_frames": 34,
+  "fps": 10
+}

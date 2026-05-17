@@ -1,0 +1,7 @@
+{
+  "video": "0869_success.mp4",
+  "instruction": "pick green rice chip bag from bottom drawer and place on counter",
+  "success": true,
+  "num_frames": 67,
+  "fps": 10
+}

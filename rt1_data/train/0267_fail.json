@@ -1,0 +1,7 @@
+{
+  "video": "0267_fail.mp4",
+  "instruction": "pick 7up can",
+  "success": false,
+  "num_frames": 49,
+  "fps": 10
+}

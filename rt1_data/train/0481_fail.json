@@ -1,0 +1,7 @@
+{
+  "video": "0481_fail.mp4",
+  "instruction": "move rxbar chocolate near blue plastic bottle",
+  "success": false,
+  "num_frames": 28,
+  "fps": 10
+}

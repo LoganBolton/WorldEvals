@@ -1,0 +1,7 @@
+{
+  "video": "0241_fail.mp4",
+  "instruction": "pick green jalapeno chip bag",
+  "success": false,
+  "num_frames": 32,
+  "fps": 10
+}

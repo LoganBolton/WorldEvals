@@ -1,0 +1,7 @@
+{
+  "video": "0450_success.mp4",
+  "instruction": "move water bottle near rxbar chocolate",
+  "success": true,
+  "num_frames": 41,
+  "fps": 10
+}

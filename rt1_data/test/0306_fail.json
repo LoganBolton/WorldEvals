@@ -1,0 +1,7 @@
+{
+  "video": "0306_fail.mp4",
+  "instruction": "place coke can into paper bowl",
+  "success": false,
+  "num_frames": 51,
+  "fps": 10
+}

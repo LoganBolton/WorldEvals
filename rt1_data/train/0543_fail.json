@@ -1,0 +1,7 @@
+{
+  "video": "0543_fail.mp4",
+  "instruction": "move water bottle near sponge",
+  "success": false,
+  "num_frames": 27,
+  "fps": 10
+}

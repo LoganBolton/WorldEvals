@@ -1,0 +1,7 @@
+{
+  "video": "0227_success.mp4",
+  "instruction": "move sponge near orange",
+  "success": true,
+  "num_frames": 31,
+  "fps": 10
+}

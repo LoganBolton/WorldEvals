@@ -1,0 +1,7 @@
+{
+  "video": "0301_fail.mp4",
+  "instruction": "move brown chip bag near rxbar blueberry",
+  "success": false,
+  "num_frames": 24,
+  "fps": 10
+}

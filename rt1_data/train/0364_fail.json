@@ -1,0 +1,7 @@
+{
+  "video": "0364_fail.mp4",
+  "instruction": "move 7up can near blue chip bag",
+  "success": false,
+  "num_frames": 25,
+  "fps": 10
+}

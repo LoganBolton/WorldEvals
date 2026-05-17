@@ -1,0 +1,7 @@
+{
+  "video": "0159_success.mp4",
+  "instruction": "move sponge near rxbar blueberry",
+  "success": true,
+  "num_frames": 33,
+  "fps": 10
+}

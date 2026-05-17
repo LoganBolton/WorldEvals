@@ -1,0 +1,7 @@
+{
+  "video": "1239_success.mp4",
+  "instruction": "move green rice chip bag near sponge",
+  "success": true,
+  "num_frames": 27,
+  "fps": 10
+}

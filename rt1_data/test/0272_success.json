@@ -1,0 +1,7 @@
+{
+  "video": "0272_success.mp4",
+  "instruction": "place redbull can into top drawer",
+  "success": true,
+  "num_frames": 40,
+  "fps": 10
+}

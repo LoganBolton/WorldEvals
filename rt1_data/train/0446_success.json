@@ -1,0 +1,7 @@
+{
+  "video": "0446_success.mp4",
+  "instruction": "close middle drawer",
+  "success": true,
+  "num_frames": 71,
+  "fps": 10
+}

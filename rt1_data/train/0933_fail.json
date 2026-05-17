@@ -1,0 +1,7 @@
+{
+  "video": "0933_fail.mp4",
+  "instruction": "move blue chip bag near pepsi can",
+  "success": false,
+  "num_frames": 49,
+  "fps": 10
+}

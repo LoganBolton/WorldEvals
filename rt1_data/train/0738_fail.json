@@ -1,0 +1,7 @@
+{
+  "video": "0738_fail.mp4",
+  "instruction": "pick orange can from bottom drawer and place on counter",
+  "success": false,
+  "num_frames": 67,
+  "fps": 10
+}

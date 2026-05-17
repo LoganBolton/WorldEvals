@@ -1,0 +1,7 @@
+{
+  "video": "0505_fail.mp4",
+  "instruction": "move 7up can near orange",
+  "success": false,
+  "num_frames": 28,
+  "fps": 10
+}

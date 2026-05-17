@@ -1,0 +1,7 @@
+{
+  "video": "0992_success.mp4",
+  "instruction": "pick apple",
+  "success": true,
+  "num_frames": 22,
+  "fps": 10
+}

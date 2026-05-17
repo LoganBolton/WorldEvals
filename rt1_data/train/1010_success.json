@@ -1,0 +1,7 @@
+{
+  "video": "1010_success.mp4",
+  "instruction": "move rxbar blueberry near green jalapeno chip bag",
+  "success": true,
+  "num_frames": 31,
+  "fps": 10
+}

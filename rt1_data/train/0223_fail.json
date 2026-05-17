@@ -1,0 +1,7 @@
+{
+  "video": "0223_fail.mp4",
+  "instruction": "move brown chip bag near rxbar chocolate",
+  "success": false,
+  "num_frames": 42,
+  "fps": 10
+}

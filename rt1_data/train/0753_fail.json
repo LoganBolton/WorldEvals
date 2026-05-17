@@ -1,0 +1,7 @@
+{
+  "video": "0753_fail.mp4",
+  "instruction": "pick orange",
+  "success": false,
+  "num_frames": 2,
+  "fps": 10
+}

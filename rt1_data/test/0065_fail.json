@@ -1,0 +1,7 @@
+{
+  "video": "0065_fail.mp4",
+  "instruction": "pick water bottle from bottom drawer and place on counter",
+  "success": false,
+  "num_frames": 49,
+  "fps": 10
+}

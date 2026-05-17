@@ -1,0 +1,7 @@
+{
+  "video": "0146_fail.mp4",
+  "instruction": "move green jalapeno chip bag near rxbar chocolate",
+  "success": false,
+  "num_frames": 46,
+  "fps": 10
+}

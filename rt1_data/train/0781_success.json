@@ -1,0 +1,7 @@
+{
+  "video": "0781_success.mp4",
+  "instruction": "pick blue water bottle from middle shelf of fridge ",
+  "success": true,
+  "num_frames": 64,
+  "fps": 10
+}

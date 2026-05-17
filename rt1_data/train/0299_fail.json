@@ -1,0 +1,7 @@
+{
+  "video": "0299_fail.mp4",
+  "instruction": "pick sponge",
+  "success": false,
+  "num_frames": 22,
+  "fps": 10
+}

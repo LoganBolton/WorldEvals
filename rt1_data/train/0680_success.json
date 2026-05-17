@@ -1,0 +1,7 @@
+{
+  "video": "0680_success.mp4",
+  "instruction": "pick blue chip bag from bottom drawer and place on counter",
+  "success": true,
+  "num_frames": 62,
+  "fps": 10
+}

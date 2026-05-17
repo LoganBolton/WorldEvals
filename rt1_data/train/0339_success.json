@@ -1,0 +1,7 @@
+{
+  "video": "0339_success.mp4",
+  "instruction": "pick apple from white bowl",
+  "success": true,
+  "num_frames": 33,
+  "fps": 10
+}

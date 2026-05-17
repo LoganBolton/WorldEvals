@@ -1,0 +1,7 @@
+{
+  "video": "1141_success.mp4",
+  "instruction": "place sponge into middle drawer",
+  "success": true,
+  "num_frames": 56,
+  "fps": 10
+}

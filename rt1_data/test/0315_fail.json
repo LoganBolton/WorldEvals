@@ -1,0 +1,7 @@
+{
+  "video": "0315_fail.mp4",
+  "instruction": "pick redbull can from middle drawer and place on counter",
+  "success": false,
+  "num_frames": 106,
+  "fps": 10
+}

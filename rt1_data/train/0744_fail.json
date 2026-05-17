@@ -1,0 +1,7 @@
+{
+  "video": "0744_fail.mp4",
+  "instruction": "knock blue plastic bottle over",
+  "success": false,
+  "num_frames": 26,
+  "fps": 10
+}

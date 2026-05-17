@@ -1,0 +1,7 @@
+{
+  "video": "1005_fail.mp4",
+  "instruction": "move orange can near blue chip bag",
+  "success": false,
+  "num_frames": 40,
+  "fps": 10
+}
