@@ -4,9 +4,7 @@
 
 This repo replicates and improves the results of the VLM judge in the [WorldGym paper](https://arxiv.org/abs/2506.00613). 
 
-I finetuned Qwen3-VL-8b with TRL to more effectively classify whether the videos in the [RT-1 dataset](https://robotics-transformer1.github.io/) succesfully completed the task action. Intsead of passing in the full video, I extracted the first, last, and two middle frames of the video to send the model 4 different images.
-
-Training set: 3,319 samples | Test set: 835 samples
+I finetuned Qwen3-VL-8b with TRL to more effectively classify whether the videos in the [RT-1 dataset](https://robotics-transformer1.github.io/) succesfully completed the task action. Intsead of passing in the full video, I extracted the first, last, and two middle frames of the video to send the model 4 different images. The total training set has 3,319 samples and the test set has 835 samples.
 
 The finetuned model can be found on Hugging Face at: 
 
@@ -24,4 +22,4 @@ The finetuned model can be found on Hugging Face at:
 | TPR | +0.0% | +0.8% |
 | TNR | +40.0% | +44.2% |
 
-![Eval Results](finetune/outputs/eval_results.png)
+![Eval Results](assets/eval_results.png)
