@@ -6,3 +6,8 @@ __pycache__/
 rt1_data/shards/
 rt1_data/exported/
 rt1_data/dataset_cache/
+
+eval/*.html
+
+finetune/unsloth_compiled_cache/
+unsloth_compiled_cache/

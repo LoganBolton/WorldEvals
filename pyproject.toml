@@ -20,6 +20,7 @@ dependencies = [
     "protobuf>=6.32.0",
     "sentencepiece>=0.2.1",
     "tensorflow-datasets>=4.9.10",
+    "tf-keras>=2.16.0",
     "torch>=2.6.0",
     "torchao>=0.16.0",
     "torchvision>=0.21.0",
