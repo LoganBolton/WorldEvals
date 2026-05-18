@@ -6,8 +6,24 @@ __pycache__/
 rt1_data/shards/
 rt1_data/exported/
 rt1_data/dataset_cache/
+rt1_data/train/
+rt1_data/test/
+rt1_data/**/*.mp4
+rt1_data/**/*.arrow
+rt1_data/**/*.array_record-*
 
+# Training outputs / model artifacts
+finetune/outputs/
+
+# Evaluation outputs
+eval/results/
 eval/*.html
 
-finetune/unsloth_compiled_cache/
+# Unsloth generated cache
 unsloth_compiled_cache/
+**/unsloth_compiled_cache/
+
+*.pt
+*.pth
+*.bin
+*.safetensors

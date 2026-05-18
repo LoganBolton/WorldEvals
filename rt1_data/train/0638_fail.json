@@ -1,7 +1,0 @@
-{
-  "video": "0638_fail.mp4",
-  "instruction": "move rxbar chocolate near apple",
-  "success": false,
-  "num_frames": 32,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "1140_fail.mp4",
-  "instruction": "move brown chip bag near paper bowl",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

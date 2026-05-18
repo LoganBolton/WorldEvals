@@ -1,7 +1,0 @@
-{
-  "video": "1242_fail.mp4",
-  "instruction": "knock orange can over",
-  "success": false,
-  "num_frames": 31,
-  "fps": 10
-}

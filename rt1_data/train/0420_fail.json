@@ -1,7 +1,0 @@
-{
-  "video": "0420_fail.mp4",
-  "instruction": "move brown chip bag near apple",
-  "success": false,
-  "num_frames": 25,
-  "fps": 10
-}

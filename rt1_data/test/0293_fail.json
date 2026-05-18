@@ -1,7 +1,0 @@
-{
-  "video": "0293_fail.mp4",
-  "instruction": "move blue plastic bottle near rxbar blueberry",
-  "success": false,
-  "num_frames": 49,
-  "fps": 10
-}

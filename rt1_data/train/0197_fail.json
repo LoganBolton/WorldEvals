@@ -1,7 +1,0 @@
-{
-  "video": "0197_fail.mp4",
-  "instruction": "move sponge near coke can",
-  "success": false,
-  "num_frames": 24,
-  "fps": 10
-}

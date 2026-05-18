@@ -1,7 +1,0 @@
-{
-  "video": "0623_fail.mp4",
-  "instruction": "place rxbar blueberry into middle drawer",
-  "success": false,
-  "num_frames": 11,
-  "fps": 10
-}

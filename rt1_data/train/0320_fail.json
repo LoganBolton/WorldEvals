@@ -1,7 +1,0 @@
-{
-  "video": "0320_fail.mp4",
-  "instruction": "move sponge near rxbar chocolate",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

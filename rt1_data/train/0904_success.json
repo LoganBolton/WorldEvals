@@ -1,7 +1,0 @@
-{
-  "video": "0904_success.mp4",
-  "instruction": "pick water bottle from top shelf of fridge",
-  "success": true,
-  "num_frames": 82,
-  "fps": 10
-}

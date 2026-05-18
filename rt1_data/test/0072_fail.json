@@ -1,7 +1,0 @@
-{
-  "video": "0072_fail.mp4",
-  "instruction": "move blue chip bag near green jalapeno chip bag",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

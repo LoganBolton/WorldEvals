@@ -1,7 +1,0 @@
-{
-  "video": "0087_fail.mp4",
-  "instruction": "move sponge near brown chip bag",
-  "success": false,
-  "num_frames": 25,
-  "fps": 10
-}

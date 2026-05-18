@@ -1,7 +1,0 @@
-{
-  "video": "0042_fail.mp4",
-  "instruction": "pick green rice chip bag",
-  "success": false,
-  "num_frames": 38,
-  "fps": 10
-}

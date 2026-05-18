@@ -1,7 +1,0 @@
-{
-  "video": "0092_fail.mp4",
-  "instruction": "move blue plastic bottle near orange",
-  "success": false,
-  "num_frames": 10,
-  "fps": 10
-}

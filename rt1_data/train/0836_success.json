@@ -1,7 +1,0 @@
-{
-  "video": "0836_success.mp4",
-  "instruction": "pick water bottle from middle drawer and place on counter",
-  "success": true,
-  "num_frames": 50,
-  "fps": 10
-}

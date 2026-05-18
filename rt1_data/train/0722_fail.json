@@ -1,7 +1,0 @@
-{
-  "video": "0722_fail.mp4",
-  "instruction": "move blue plastic bottle near apple",
-  "success": false,
-  "num_frames": 24,
-  "fps": 10
-}

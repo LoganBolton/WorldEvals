@@ -1,7 +1,0 @@
-{
-  "video": "1312_fail.mp4",
-  "instruction": "move blue chip bag near sponge",
-  "success": false,
-  "num_frames": 22,
-  "fps": 10
-}

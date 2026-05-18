@@ -1,7 +1,0 @@
-{
-  "video": "0635_fail.mp4",
-  "instruction": "pick apple",
-  "success": false,
-  "num_frames": 25,
-  "fps": 10
-}

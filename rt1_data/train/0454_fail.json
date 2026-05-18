@@ -1,7 +1,0 @@
-{
-  "video": "0454_fail.mp4",
-  "instruction": "place orange can upright",
-  "success": false,
-  "num_frames": 59,
-  "fps": 10
-}

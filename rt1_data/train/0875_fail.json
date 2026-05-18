@@ -1,7 +1,0 @@
-{
-  "video": "0875_fail.mp4",
-  "instruction": "place green can into white bowl",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

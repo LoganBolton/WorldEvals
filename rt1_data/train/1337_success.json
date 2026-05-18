@@ -1,7 +1,0 @@
-{
-  "video": "1337_success.mp4",
-  "instruction": "move rxbar chocolate near coke can",
-  "success": true,
-  "num_frames": 29,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "1190_fail.mp4",
-  "instruction": "move orange near 7up can",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

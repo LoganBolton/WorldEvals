@@ -1,7 +1,0 @@
-{
-  "video": "0003_fail.mp4",
-  "instruction": "place orange into middle drawer",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

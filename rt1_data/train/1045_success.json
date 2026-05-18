@@ -1,7 +1,0 @@
-{
-  "video": "1045_success.mp4",
-  "instruction": "pick redbull can from bottom shelf of fridge",
-  "success": true,
-  "num_frames": 68,
-  "fps": 10
-}

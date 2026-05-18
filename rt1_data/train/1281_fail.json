@@ -1,7 +1,0 @@
-{
-  "video": "1281_fail.mp4",
-  "instruction": "place orange can into bottom drawer",
-  "success": false,
-  "num_frames": 12,
-  "fps": 10
-}

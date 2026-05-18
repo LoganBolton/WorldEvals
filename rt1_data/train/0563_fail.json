@@ -1,7 +1,0 @@
-{
-  "video": "0563_fail.mp4",
-  "instruction": "place redbull can upright",
-  "success": false,
-  "num_frames": 30,
-  "fps": 10
-}

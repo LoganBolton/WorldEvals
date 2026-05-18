@@ -1,7 +1,0 @@
-{
-  "video": "1193_fail.mp4",
-  "instruction": "pick blue plastic bottle",
-  "success": false,
-  "num_frames": 23,
-  "fps": 10
-}

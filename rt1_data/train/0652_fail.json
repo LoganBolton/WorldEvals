@@ -1,7 +1,0 @@
-{
-  "video": "0652_fail.mp4",
-  "instruction": "move orange can near green rice chip bag",
-  "success": false,
-  "num_frames": 42,
-  "fps": 10
-}

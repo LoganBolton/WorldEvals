@@ -1,7 +1,0 @@
-{
-  "video": "0250_fail.mp4",
-  "instruction": "pick sponge from middle drawer and place on counter",
-  "success": false,
-  "num_frames": 46,
-  "fps": 10
-}

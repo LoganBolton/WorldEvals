@@ -1,7 +1,0 @@
-{
-  "video": "0605_success.mp4",
-  "instruction": "close right fridge door",
-  "success": true,
-  "num_frames": 50,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "0304_fail.mp4",
-  "instruction": "move redbull can near orange",
-  "success": false,
-  "num_frames": 28,
-  "fps": 10
-}

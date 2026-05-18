@@ -1,7 +1,0 @@
-{
-  "video": "0354_fail.mp4",
-  "instruction": "pick green can from bottom drawer and place on counter",
-  "success": false,
-  "num_frames": 66,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "0070_success.mp4",
-  "instruction": "move orange can near 7up can",
-  "success": true,
-  "num_frames": 30,
-  "fps": 10
-}

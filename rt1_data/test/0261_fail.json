@@ -1,7 +1,0 @@
-{
-  "video": "0261_fail.mp4",
-  "instruction": "pick orange from white bowl",
-  "success": false,
-  "num_frames": 103,
-  "fps": 10
-}

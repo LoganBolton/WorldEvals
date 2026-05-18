@@ -1,7 +1,0 @@
-{
-  "video": "1160_success.mp4",
-  "instruction": "pick rxbar chocolate from bottom drawer and place on counter",
-  "success": true,
-  "num_frames": 115,
-  "fps": 10
-}

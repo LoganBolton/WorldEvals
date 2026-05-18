@@ -1,7 +1,0 @@
-{
-  "video": "1240_fail.mp4",
-  "instruction": "move coke can near green rice chip bag",
-  "success": false,
-  "num_frames": 35,
-  "fps": 10
-}

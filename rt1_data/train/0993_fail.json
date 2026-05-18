@@ -1,7 +1,0 @@
-{
-  "video": "0993_fail.mp4",
-  "instruction": "pick 7up can from bottom drawer and place on counter",
-  "success": false,
-  "num_frames": 56,
-  "fps": 10
-}

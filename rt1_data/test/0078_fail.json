@@ -1,7 +1,0 @@
-{
-  "video": "0078_fail.mp4",
-  "instruction": "move sponge near 7up can",
-  "success": false,
-  "num_frames": 40,
-  "fps": 10
-}

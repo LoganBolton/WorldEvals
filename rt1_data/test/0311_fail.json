@@ -1,7 +1,0 @@
-{
-  "video": "0311_fail.mp4",
-  "instruction": "move rxbar chocolate near water bottle",
-  "success": false,
-  "num_frames": 33,
-  "fps": 10
-}

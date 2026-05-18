@@ -1,7 +1,0 @@
-{
-  "video": "0962_fail.mp4",
-  "instruction": "move green can near redbull can",
-  "success": false,
-  "num_frames": 24,
-  "fps": 10
-}

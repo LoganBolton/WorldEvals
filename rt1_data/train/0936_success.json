@@ -1,7 +1,0 @@
-{
-  "video": "0936_success.mp4",
-  "instruction": "move rxbar blueberry near orange",
-  "success": true,
-  "num_frames": 42,
-  "fps": 10
-}

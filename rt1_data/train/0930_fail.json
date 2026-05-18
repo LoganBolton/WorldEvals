@@ -1,7 +1,0 @@
-{
-  "video": "0930_fail.mp4",
-  "instruction": "place green can into top drawer",
-  "success": false,
-  "num_frames": 30,
-  "fps": 10
-}

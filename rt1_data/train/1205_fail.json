@@ -1,7 +1,0 @@
-{
-  "video": "1205_fail.mp4",
-  "instruction": "move blue chip bag near green can",
-  "success": false,
-  "num_frames": 32,
-  "fps": 10
-}

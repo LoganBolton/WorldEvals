@@ -1,7 +1,0 @@
-{
-  "video": "1302_fail.mp4",
-  "instruction": "move orange near rxbar blueberry",
-  "success": false,
-  "num_frames": 31,
-  "fps": 10
-}

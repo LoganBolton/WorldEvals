@@ -1,7 +1,0 @@
-{
-  "video": "0513_fail.mp4",
-  "instruction": "move water bottle near green can",
-  "success": false,
-  "num_frames": 61,
-  "fps": 10
-}

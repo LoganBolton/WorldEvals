@@ -1,7 +1,0 @@
-{
-  "video": "0716_fail.mp4",
-  "instruction": "place pepsi can into middle drawer",
-  "success": false,
-  "num_frames": 54,
-  "fps": 10
-}

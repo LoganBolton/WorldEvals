@@ -1,7 +1,0 @@
-{
-  "video": "0455_fail.mp4",
-  "instruction": "pick sponge",
-  "success": false,
-  "num_frames": 20,
-  "fps": 10
-}

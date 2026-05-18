@@ -1,7 +1,0 @@
-{
-  "video": "0465_fail.mp4",
-  "instruction": "move green rice chip bag near water bottle",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

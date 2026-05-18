@@ -1,7 +1,0 @@
-{
-  "video": "0116_fail.mp4",
-  "instruction": "pick apple from paper bowl and place on counter",
-  "success": false,
-  "num_frames": 58,
-  "fps": 10
-}

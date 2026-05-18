@@ -1,7 +1,0 @@
-{
-  "video": "0001_success.mp4",
-  "instruction": "move blue plastic bottle near redbull can",
-  "success": true,
-  "num_frames": 28,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "0237_success.mp4",
-  "instruction": "move pepsi can near 7up can",
-  "success": true,
-  "num_frames": 27,
-  "fps": 10
-}

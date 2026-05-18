@@ -1,7 +1,0 @@
-{
-  "video": "0471_fail.mp4",
-  "instruction": "move redbull can near rxbar blueberry",
-  "success": false,
-  "num_frames": 32,
-  "fps": 10
-}

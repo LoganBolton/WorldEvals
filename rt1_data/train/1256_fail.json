@@ -1,7 +1,0 @@
-{
-  "video": "1256_fail.mp4",
-  "instruction": "pick banana from white bowl",
-  "success": false,
-  "num_frames": 5,
-  "fps": 10
-}

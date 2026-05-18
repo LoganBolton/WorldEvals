@@ -1,7 +1,0 @@
-{
-  "video": "0392_fail.mp4",
-  "instruction": "place apple into top drawer",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

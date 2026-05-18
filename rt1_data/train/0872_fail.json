@@ -1,7 +1,0 @@
-{
-  "video": "0872_fail.mp4",
-  "instruction": "move 7up can near rxbar blueberry",
-  "success": false,
-  "num_frames": 17,
-  "fps": 10
-}

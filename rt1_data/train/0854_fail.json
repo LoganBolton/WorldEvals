@@ -1,7 +1,0 @@
-{
-  "video": "0854_fail.mp4",
-  "instruction": "pick redbull can",
-  "success": false,
-  "num_frames": 31,
-  "fps": 10
-}

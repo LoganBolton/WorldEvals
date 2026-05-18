@@ -1,7 +1,0 @@
-{
-  "video": "0117_fail.mp4",
-  "instruction": "pick rxbar chocolate from middle drawer and place on counter",
-  "success": false,
-  "num_frames": 51,
-  "fps": 10
-}

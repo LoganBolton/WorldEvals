@@ -1,7 +1,0 @@
-{
-  "video": "1339_fail.mp4",
-  "instruction": "pick rxbar chocolate",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

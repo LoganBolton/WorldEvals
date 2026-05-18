@@ -1,7 +1,0 @@
-{
-  "video": "0112_fail.mp4",
-  "instruction": "move pepsi can near green can",
-  "success": false,
-  "num_frames": 91,
-  "fps": 10
-}

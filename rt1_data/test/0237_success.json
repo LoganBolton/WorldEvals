@@ -1,7 +1,0 @@
-{
-  "video": "0237_success.mp4",
-  "instruction": "pick coke can from bottom drawer and place on counter",
-  "success": true,
-  "num_frames": 49,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "0350_fail.mp4",
-  "instruction": "move coke can near green jalapeno chip bag",
-  "success": false,
-  "num_frames": 34,
-  "fps": 10
-}

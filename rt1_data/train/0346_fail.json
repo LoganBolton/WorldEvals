@@ -1,7 +1,0 @@
-{
-  "video": "0346_fail.mp4",
-  "instruction": "place blue plastic bottle upright",
-  "success": false,
-  "num_frames": 51,
-  "fps": 10
-}

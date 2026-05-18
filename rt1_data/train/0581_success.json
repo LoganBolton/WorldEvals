@@ -1,7 +1,0 @@
-{
-  "video": "0581_success.mp4",
-  "instruction": "move rxbar blueberry near 7up can",
-  "success": true,
-  "num_frames": 22,
-  "fps": 10
-}

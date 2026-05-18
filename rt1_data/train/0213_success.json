@@ -1,7 +1,0 @@
-{
-  "video": "0213_success.mp4",
-  "instruction": "move rxbar chocolate near blue plastic bottle",
-  "success": true,
-  "num_frames": 50,
-  "fps": 10
-}

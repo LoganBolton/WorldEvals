@@ -1,7 +1,0 @@
-{
-  "video": "0850_success.mp4",
-  "instruction": "pick 7up can from bottom shelf of fridge",
-  "success": true,
-  "num_frames": 71,
-  "fps": 10
-}

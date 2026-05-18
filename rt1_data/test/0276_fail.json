@@ -1,7 +1,0 @@
-{
-  "video": "0276_fail.mp4",
-  "instruction": "move redbull can near green jalapeno chip bag",
-  "success": false,
-  "num_frames": 24,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "0066_fail.mp4",
-  "instruction": "place 7up can upright",
-  "success": false,
-  "num_frames": 72,
-  "fps": 10
-}

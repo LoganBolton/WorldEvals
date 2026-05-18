@@ -1,7 +1,0 @@
-{
-  "video": "0342_fail.mp4",
-  "instruction": "open right fridge door",
-  "success": false,
-  "num_frames": 61,
-  "fps": 10
-}

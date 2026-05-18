@@ -1,7 +1,0 @@
-{
-  "video": "0425_success.mp4",
-  "instruction": "pick orange can from middle shelf of fridge",
-  "success": true,
-  "num_frames": 53,
-  "fps": 10
-}

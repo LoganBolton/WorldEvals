@@ -1,7 +1,0 @@
-{
-  "video": "0404_fail.mp4",
-  "instruction": "move coke can near brown chip bag",
-  "success": false,
-  "num_frames": 27,
-  "fps": 10
-}

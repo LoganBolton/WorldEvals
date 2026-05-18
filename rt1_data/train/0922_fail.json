@@ -1,7 +1,0 @@
-{
-  "video": "0922_fail.mp4",
-  "instruction": "move coke can near pepsi can",
-  "success": false,
-  "num_frames": 33,
-  "fps": 10
-}

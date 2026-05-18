@@ -1,7 +1,0 @@
-{
-  "video": "0206_fail.mp4",
-  "instruction": "pick green can",
-  "success": false,
-  "num_frames": 19,
-  "fps": 10
-}

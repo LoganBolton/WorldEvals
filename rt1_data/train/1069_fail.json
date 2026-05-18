@@ -1,7 +1,0 @@
-{
-  "video": "1069_fail.mp4",
-  "instruction": "move pepsi can near rxbar blueberry",
-  "success": false,
-  "num_frames": 31,
-  "fps": 10
-}

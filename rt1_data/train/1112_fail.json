@@ -1,7 +1,0 @@
-{
-  "video": "1112_fail.mp4",
-  "instruction": "move rxbar blueberry near sponge",
-  "success": false,
-  "num_frames": 34,
-  "fps": 10
-}

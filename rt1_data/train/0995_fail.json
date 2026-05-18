@@ -1,7 +1,0 @@
-{
-  "video": "0995_fail.mp4",
-  "instruction": "knock water bottle over",
-  "success": false,
-  "num_frames": 26,
-  "fps": 10
-}

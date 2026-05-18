@@ -1,7 +1,0 @@
-{
-  "video": "0653_fail.mp4",
-  "instruction": "move apple near rxbar blueberry",
-  "success": false,
-  "num_frames": 26,
-  "fps": 10
-}

@@ -1,7 +1,0 @@
-{
-  "video": "1300_fail.mp4",
-  "instruction": "move rxbar blueberry near green rice chip bag",
-  "success": false,
-  "num_frames": 33,
-  "fps": 10
-}

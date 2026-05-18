@@ -1,7 +1,0 @@
-{
-  "video": "0130_fail.mp4",
-  "instruction": "place green can upright",
-  "success": false,
-  "num_frames": 41,
-  "fps": 10
-}

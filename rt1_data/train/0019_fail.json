@@ -1,7 +1,0 @@
-{
-  "video": "0019_fail.mp4",
-  "instruction": "move apple near water bottle",
-  "success": false,
-  "num_frames": 32,
-  "fps": 10
-}

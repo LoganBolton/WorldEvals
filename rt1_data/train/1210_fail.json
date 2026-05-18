@@ -1,7 +1,0 @@
-{
-  "video": "1210_fail.mp4",
-  "instruction": "place orange into paper bowl",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

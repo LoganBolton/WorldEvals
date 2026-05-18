@@ -1,7 +1,0 @@
-{
-  "video": "0709_fail.mp4",
-  "instruction": "place brown chip bag into paper bowl",
-  "success": false,
-  "num_frames": 7,
-  "fps": 10
-}

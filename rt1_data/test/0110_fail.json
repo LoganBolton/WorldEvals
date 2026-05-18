@@ -1,7 +1,0 @@
-{
-  "video": "0110_fail.mp4",
-  "instruction": "pick rxbar blueberry",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

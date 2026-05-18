@@ -60,6 +60,16 @@ def parse_args() -> argparse.Namespace:
         default=HF_BASE_URL,
         help="URL template with a {shard} placeholder.",
     )
+    parser.add_argument(
+        "--append",
+        action="store_true",
+        help=(
+            "Resume from existing data. Reads the manifest in --output-dir, "
+            "keeps existing episodes, and continues numbering from where it "
+            "left off. Existing success/failure counts are subtracted from the "
+            "targets so only the remaining episodes are downloaded."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -185,6 +195,23 @@ def main() -> None:
     frame_count = 0
     total_saved = 0
     manifest = []
+
+    if args.append:
+        manifest_path = output_dir / "manifest.json"
+        if manifest_path.exists():
+            manifest = json.loads(manifest_path.read_text())
+            for entry in manifest:
+                if entry["success"]:
+                    counts[True] += 1
+                else:
+                    counts[False] += 1
+                frame_count += entry.get("num_frames", 0)
+            total_saved = len(manifest)
+            print(
+                f"appending: loaded {total_saved} existing episodes "
+                f"(success={counts[True]} fail={counts[False]})",
+                flush=True,
+            )
 
     for shard in range(args.start_shard, args.start_shard + args.max_shards):
         url = args.hf_base_url.format(shard=shard)

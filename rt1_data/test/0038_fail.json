@@ -1,7 +1,0 @@
-{
-  "video": "0038_fail.mp4",
-  "instruction": "move coke can near blue plastic bottle",
-  "success": false,
-  "num_frames": 29,
-  "fps": 10
-}

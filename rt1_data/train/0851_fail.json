@@ -1,7 +1,0 @@
-{
-  "video": "0851_fail.mp4",
-  "instruction": "place coke can into top drawer",
-  "success": false,
-  "num_frames": 2,
-  "fps": 10
-}

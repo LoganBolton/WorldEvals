@@ -1,7 +1,0 @@
-{
-  "video": "0292_success.mp4",
-  "instruction": "pick rxbar blueberry from top drawer and place on counter",
-  "success": true,
-  "num_frames": 74,
-  "fps": 10
-}

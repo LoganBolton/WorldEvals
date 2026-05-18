@@ -1,7 +1,0 @@
-{
-  "video": "0204_fail.mp4",
-  "instruction": "move orange near green can",
-  "success": false,
-  "num_frames": 49,
-  "fps": 10
-}

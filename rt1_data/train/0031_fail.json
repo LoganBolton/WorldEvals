@@ -1,7 +1,0 @@
-{
-  "video": "0031_fail.mp4",
-  "instruction": "move brown chip bag near orange",
-  "success": false,
-  "num_frames": 30,
-  "fps": 10
-}

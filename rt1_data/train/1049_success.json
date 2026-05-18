@@ -1,7 +1,0 @@
-{
-  "video": "1049_success.mp4",
-  "instruction": "move rxbar blueberry near blue plastic bottle",
-  "success": true,
-  "num_frames": 37,
-  "fps": 10
-}
