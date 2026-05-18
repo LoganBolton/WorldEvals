@@ -27,3 +27,6 @@ unsloth_compiled_cache/
 *.pth
 *.bin
 *.safetensors
+
+# Training logs
+*.log
