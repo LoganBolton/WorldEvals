@@ -1,3 +1,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# RT-1 data (large binary files / generated outputs)
+rt1_data/shards/
+rt1_data/exported/
+rt1_data/dataset_cache/
