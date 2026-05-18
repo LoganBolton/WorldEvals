@@ -146,7 +146,7 @@ class EvalCallback(TrainerCallback):
         self._evaluate(kwargs["model"], state.global_step, epoch)
 
 
-steps_per_epoch = 170
+steps_per_epoch = len(train_dataset) // (2 * 4)  # batch_size * grad_accum
 eval_callback = EvalCallback(eval_samples, tokenizer, steps_per_epoch)
 
 
@@ -165,8 +165,8 @@ trainer = SFTTrainer(
     args=SFTConfig(
         per_device_train_batch_size=2,
         gradient_accumulation_steps=4,
-        warmup_steps=5,
-        num_train_epochs=3,
+        warmup_steps=10,
+        num_train_epochs=20,
         learning_rate=5e-5,
         logging_steps=1,
         optim="adamw_8bit",
@@ -179,7 +179,7 @@ trainer = SFTTrainer(
         remove_unused_columns=False,
         dataset_text_field="",
         dataset_kwargs={"skip_prepare_dataset": True},
-        max_length=2048,
+        max_length=1024,
     ),
 )
 
