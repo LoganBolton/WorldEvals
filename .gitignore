@@ -30,3 +30,5 @@ unsloth_compiled_cache/
 
 # Training logs
 *.log
+
+*.html
