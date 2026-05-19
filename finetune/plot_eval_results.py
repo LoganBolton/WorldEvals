@@ -1,13 +1,18 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Averaged finetuned results over 2 eval runs
+ft_acc = 87.1
+ft_tpr = 81.2
+ft_tnr = 91.3
+
 models = ["GPT-4o\n(2024-11-20)", "Qwen3-VL-8B\n", "Qwen3-VL-8B\n(finetuned)"]
 metrics = ["Accuracy", "TPR", "TNR"]
 
 data = {
-    "Accuracy":               [65.9, 63.1, 87.5],
-    "TPR":  [85.3, 84.5, 85.3],
-    "TNR":  [52.0, 47.8, 92.0],
+    "Accuracy": [65.9, 63.1, ft_acc],
+    "TPR":      [85.3, 84.5, ft_tpr],
+    "TNR":      [52.0, 47.8, ft_tnr],
 }
 
 x = np.arange(len(models))
